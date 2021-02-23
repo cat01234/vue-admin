@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box; // 这可令浏览器呈现出带有指定宽度和高度的框，并把边框和内边距放入框中
+    outline: none;
+  }
+  
+  html {
+    font-size: 13px; // 网页基础字体大小
+  }
+  
+  body {
+    margin: 0; // 取消外边距 8px
+    font-family: Arial, Helvetica, sans-serif; // 基础，苹果，非衬线字体
+    line-height: 1.2rem; // 行高
+    background: #f1f1f1; // 背景颜色灰色
+  }
